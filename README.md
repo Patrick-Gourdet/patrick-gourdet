@@ -5,7 +5,7 @@
 
 <div>
  <div style="float:left;" >
-   [Alt Text](figureGit.png")<h1 style="float:right;">Logic Will Get you from A To Z</h1><h2>but Imagination Will Take you ANYWHERE</h2>
+   <img align=right src="figureGit.png" width=200/><h1 style="float:right;">Logic Will Get you from A To Z</h1><h2>but Imagination Will Take you ANYWHERE</h2>
   </div>
 </div>
 <span>
