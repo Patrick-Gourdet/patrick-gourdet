@@ -2,7 +2,7 @@
 
 
 **Patrick-Gourdet/patrick-gourdet**  All progress and prosper together.
-<span style="">
+<span style="row">
 <img src="./figureGit.png" width=300, height=auto />
 
  - 🔭 I’m currently working on UnBiased News
