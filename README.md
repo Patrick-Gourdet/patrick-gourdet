@@ -1,10 +1,10 @@
-### Hi there 👋
+
 
 
 **Patrick-Gourdet/patrick-gourdet**  All progress and prosper together.
 
 
-   <img align=right src="./figureGit.png" width=200/><h1 style="float:right;">Logic Will Get you from A To Z</h1><h2>but Imagination Will Take you ANYWHERE</h2>
+<h1 style="float:right;">Logic Will Get you from A To Z</h1><h2>but Imagination Will Take you ANYWHERE</h2>
 
 <span>
     🔭 Controlling AI
