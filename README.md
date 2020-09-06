@@ -1,7 +1,7 @@
 
 
 
-**Patrick-Gourdet/patrick-gourdet**  All progress and prosper together.
+
 
 
 <h1 style="float:right;">Logic Will Get you from A To Z</h1><h2>but Imagination Will Take you ANYWHERE</h2>
