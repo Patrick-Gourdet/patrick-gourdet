@@ -2,14 +2,19 @@
 
 
 **Patrick-Gourdet/patrick-gourdet**  All progress and prosper together.
-<span style="row">
-<img src="./figureGit.png" width=300, height=auto />
 
- - 🔭 I’m currently working on UnBiased News
-- 🌱 I’m currently learning Quantum Computing and CUDA development
-- 🤔 I’m looking for help with FIX Protocol
-- 💬 Ask me about ...
-- 📫  patrickgourdet79@gmail.com
-- ⚡ Fun fact: I love to draw 
+<div>
+ <div style="float:left;" >
+   <img align="right"src="./figureGit.png" width=300, height=auto /><h1 style="float:right;">Logic Will Get you from A To Z</h1><h2>but Imagination Will Take you ANYWHERE</h2>
+  </div>
+</div>
+<span>
+    🔭 Controlling AI
+    🌱 Quantum Computing and CUDA development
 
+</span></br><span>
+    💬 Ask me about ...
+    📫  patrickgourdet79@gmail.com
+    ⚡ Fun fact: I love to draw 
 </span>
+</div>
